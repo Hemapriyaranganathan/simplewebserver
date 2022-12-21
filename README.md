@@ -43,7 +43,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![OUTPUT](./Image/ss.png)
+![OUTPUT](./image/ss.png)
 
 
 ## RESULT:
